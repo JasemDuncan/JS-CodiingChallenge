@@ -1,5 +1,4 @@
 # JS-CodiingChallenge
-Hackerank coding challenge for mob progamming sessions
-
-## Counting Valleys
-![](./screenShoot2.png)
+Hackerank coding challenge for mob progamming sessions.
+## Challenge list
+- Counting Valleys
