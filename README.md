@@ -5,3 +5,4 @@ Hackerank coding challenge for mob progamming sessions.
 - Design PDF Viewer (Pending).
 - Electric Shop (OK).
 - Hurdle Race (OK).
+- Picking Numbers (OK).
