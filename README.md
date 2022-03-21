@@ -8,4 +8,5 @@ Hackerank coding challenge for mob progamming sessions.
 - Picking Numbers (OK).
 - Utopian Tree (Pending).
 - Fibonacci ( Pending).
-- Big Sum (pending).
+- Big Sum ( Pending).
+- Angry Professor ( Pending).
